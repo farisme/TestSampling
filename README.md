@@ -1,0 +1,1 @@
+This app for collecting wifi strength value, for my final thesis. 
